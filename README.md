@@ -24,8 +24,7 @@ Conducted hypothesis testing and Ordinary Least Squares (OLS) regression modelli
 Interpreted statistical results and communicated findings through written reports and presentations.
 
 ## Education
-#### Bachelor of Arts, Sociology  
-#### Minor in Data Analytics  
+#### Bachelor of Arts, Sociology, Minor in Data Analytics  
 Mount Royal University, Calgary, AB   
 April 2026
 ### Honours
