@@ -25,9 +25,9 @@ Interpreted statistical results and communicated findings through written report
 
 ## Education
 Bachelor of Arts, Sociology
--Minor in Data Analytics
--Mount Royal University, Calgary, AB 
--April 2026
+  Minor in Data Analytics
+  Mount Royal University, Calgary, AB 
+  April 2026
 ### Honours
 Dean’s Honour Roll (Fall 2023, Winter 2024, Fall 2024, Winter 2025, Fall 2025)
 President’s Honour Roll (2023–2024, 2024–2025)
