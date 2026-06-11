@@ -25,9 +25,7 @@ Interpreted statistical results and communicated findings through written report
 
 ## Education
 Bachelor of Arts, Sociology
-
 Minor in Data Analytics
-
 Mount Royal University, Calgary, AB 
 April 2026
 ### Honours
