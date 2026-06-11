@@ -23,7 +23,7 @@ Cleaned, recoded, and validated survey data using SPSS and R.
 Conducted hypothesis testing and Ordinary Least Squares (OLS) regression modelling.
 Interpreted statistical results and communicated findings through written reports and presentations.
 
-### Education
+# Education
 Bachelor of Arts, Sociology
 Minor in Data Analytics
 Mount Royal University, Calgary, AB 
