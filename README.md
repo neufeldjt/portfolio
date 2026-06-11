@@ -1,6 +1,6 @@
 # Data Analyst
 
-# Projects
+### Projects
 ### Senior Capstone Project – Student Pathways Analytics Dashboard
 #### MGMT 5501: Applied Analytics – Strategy and Professional Practice 	         January 2026 – April 2026
 Collaborated with an 8-member consulting team to analyze student pathways for General Education requirements at Mount Royal University.
