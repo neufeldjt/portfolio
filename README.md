@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical Skills: R, DAX, M Language, SQL, Python, SPSS, Orange
+
 ## Education
 #### Bachelor of Arts, Sociology, Minor in Data Analytics  
 Mount Royal University, Calgary, AB   
