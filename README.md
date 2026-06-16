@@ -22,7 +22,7 @@ Presented dashboards and recommendations to university stakeholders.
 
 ### Restaurant Review Star Rating Prediction
 #### MGMT 5501: Applied Analytics – Strategy and Professional Practice  
-#### September 2026 – December 2026
+#### September 2025 – December 2025
 Built machine learning models to predict customer star ratings from sentiment analysis data.
 Compared Logistic Regression, Random Forest, and Naive Bayes classifiers using review sentiment features.
 Evaluated model performance using confusion matrices, classification accuracy, precision, and recall metrics.
