@@ -1,4 +1,4 @@
-# Data Analyst
+# Aspiring Data Analyst
 
 #### Technical Skills: R, DAX, M Language, SQL, Python, SPSS, Orange
 
@@ -20,8 +20,8 @@ Developed multiple interactive Power BI dashboards to identify enrollment trends
 Contributed to the development of a Data Governance Framework to support data quality and consistency.
 Presented dashboards and recommendations to university stakeholders.
 
-### Restaurant Review Star Rating Prediction
-#### MGMT 5501: Applied Analytics – Strategy and Professional Practice  
+### Restaurant Review Star Rating Prediction - Sentiment Analysis
+#### MGMT 4511: Business Intelligence  
 #### September 2025 – December 2025
 Built machine learning models to predict customer star ratings from sentiment analysis data.
 Compared Logistic Regression, Random Forest, and Naive Bayes classifiers using review sentiment features.
@@ -35,3 +35,5 @@ Analyzed data from the 2020 General Social Survey to investigate the intersectio
 Cleaned, recoded, and validated survey data using SPSS and R.
 Conducted hypothesis testing and Ordinary Least Squares (OLS) regression modelling.
 Interpreted statistical results and communicated findings through written reports and presentations.
+
+#### Check out one of my Projects: [Reestaurant Review Sentiment Analysis](https://github.com/neufeldjt/Orange-Sentiment-Analysis)
