@@ -36,4 +36,4 @@ Cleaned, recoded, and validated survey data using SPSS and R.
 Conducted hypothesis testing and Ordinary Least Squares (OLS) regression modelling.
 Interpreted statistical results and communicated findings through written reports and presentations.
 
-#### Check out one of my Projects: [Reestaurant Review Sentiment Analysis](https://github.com/neufeldjt/Orange-Sentiment-Analysis)
+#### Check out one of my Projects: [Restaurant Review Sentiment Analysis](https://github.com/neufeldjt/Orange-Sentiment-Analysis)
